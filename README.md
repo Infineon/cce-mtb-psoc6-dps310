@@ -221,6 +221,7 @@ Document title: *002-35859* – *PSoC 6 MCU:  Interfacing DPS310 Pressure Sensor
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New community code example
+ 1.0.1   | Minor edit in dependencies
 <br>
 
 
